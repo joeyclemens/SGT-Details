@@ -344,7 +344,11 @@ input[type=text], select {
 	}
 
 
-        
+  .corner {
+    position: absolute;
+    left: 30%;
+    top: 30%;
+  }
 
     }
 
